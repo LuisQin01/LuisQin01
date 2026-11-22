@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&amp;weight=700&amp;size=17&amp;color=0078D7&amp;center=true&amp;pause=100000&amp;lines=Hi%2C%20I%27m%20LuisQin01" alt="Hi, I'm LuisQin01" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&amp;weight=700&amp;size=17&amp;color=0078D7&amp;center=true&amp;pause=100000&amp;lines=Hi%2C%20I%27m%20LuisQin01" alt="Hi, I'm LuisQin" />
   <p><b>Currently focused on Agent Infra.</b></p>
   <p><a href="https://x.com/luisqin01">𝕏 @luisqin01</a> · <a href="mailto:luisqin@foxmail.com">📬 Email</a></p>
   <p><code>🎓 Northwestern Polytechnical University</code> · <code>📍 Shanghai</code></p>
